@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Fians</h1>
 <h3 align="center">An android developer</h3>
 
-- 🌱 I’m currently learning **Firebase, roomDB , sqlite**
+- 🌱 I’m currently learning jetpack compose
 
 - 💬 Ask me about **android, kotlin, java**
 
