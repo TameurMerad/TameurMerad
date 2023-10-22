@@ -1,9 +1,9 @@
 <h1 align="center">Hi , I'm Fians</h1>
-<h3 align="center">An android developer</h3>
+<h3 align="center">Entry level android developer</h3>
 
 - 🌱 I’m currently learning jetpack compose
 
-- 💬 Ask me about **android, kotlin, java**
+- 💬 Ask me about **android develpement (kotlin,java,firebase,compose)**
 
 - 📫 How to reach me **t_merad@estin.dz**
 
