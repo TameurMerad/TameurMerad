@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning jetpack compose
 
-- 💬 Ask me about **android develpement (kotlin,java,firebase,compose)**
+- 💬 Ask me about **android develpement (kotlin,java,compose)**
 
 - 📫 How to reach me **t_merad@estin.dz**
 
