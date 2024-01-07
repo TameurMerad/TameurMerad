@@ -1,7 +1,7 @@
 <h1 align="center">Fians</h1>
 <h3 align="center">Entry level android developer</h3>
 
-- 🌱 I’m currently learning jetpack compose
+- 🌱 I’m currently learning jetpack compose, web scraping 
 
 - 💬 Ask me about **android develpement (kotlin,java,compose)**
 
