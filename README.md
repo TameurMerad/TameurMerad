@@ -1,11 +1,11 @@
 <h1 align="center">Fians</h1>
 <h3 align="center">Entry level android developer</h3>
 
-- 🌱 I’m currently learning jetpack compose, web scraping 
+-  Currently learning jetpack compose, python
 
-- 💬 Ask me about **android develpement (kotlin,java,compose)**
+-  Ask me about **android develpement (kotlin,java,compose)**
 
-- 📫 How to reach me **t_merad@estin.dz**
+-  How to reach me **t_merad@estin.dz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
